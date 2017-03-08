@@ -47,19 +47,19 @@ export const HelmetBaseConfig = {
   meta: [
     {
       name: 'description',
-      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer | GitHub: xlaefz | USC Computer Science'
     },
     {
       name: 'author',
-      content: 'Jason Zheng (cle1994)'
+      content: 'Jason Zheng (xlaefz)'
     },
     {
       itemprop: 'name',
-      content: 'Jason Zheng (cle1994)'
+      content: 'Jason Zheng (xlaefz)'
     },
     {
       itemprop: 'description',
-      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer | GitHub: xlaefz | USC Computer Science'
     },
     {
       itemprop: 'image',
@@ -80,7 +80,7 @@ export const HelmetBaseConfig = {
     },
     {
       name: 'twitter:description',
-      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer | GitHub: xlaefz | USC Computer Science'
     },
     {
       name: 'twitter:image:src',
@@ -97,7 +97,7 @@ export const HelmetBaseConfig = {
     },
     {
       property: 'og:description',
-      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer | GitHub: xlaefz | USC Computer Science'
     },
     {
       property: 'og:site_name',
