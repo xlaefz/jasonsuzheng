@@ -1,6 +1,6 @@
 FROM node:6.6.0-slim
 
-MAINTAINER Christian Le <jasonsuzheng@gmail.com>
+MAINTAINER Jason Zheng <jasonsuzheng@gmail.com>
 
 # Copy over app
 RUN mkdir -p /usr/src/app

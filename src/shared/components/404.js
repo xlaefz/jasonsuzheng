@@ -14,7 +14,7 @@ class Error404 extends Component {
   render() {
     const helmetProps = updateHelmetProps(
       'http://jasonsuzheng.com',
-      '404 | Christian Le',
+      '404 | Jason Zheng',
       'I think you tried to find a page that doesn\'t exist!'
     );
 

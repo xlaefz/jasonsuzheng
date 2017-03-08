@@ -41,7 +41,7 @@ class Message extends Component {
 
     const helmetProps = updateHelmetProps(
       'http://jasonsuzheng.com/message',
-      'Message Me | Christian Le',
+      'Message Me | Jason Zheng',
       'Send me a message! I\'ll get back as soon as I can.'
     );
 

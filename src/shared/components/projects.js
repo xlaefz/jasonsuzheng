@@ -50,7 +50,7 @@ class projects extends Component {
 
     const helmetProps = updateHelmetProps(
       'http://jasonsuzheng.com/projects',
-      'projects | Christian Le',
+      'projects | Jason Zheng',
       'A collection of projects about almost anything! I\'ll be using projects as a way to write tutorials, rants, and blogs.'
     );
 

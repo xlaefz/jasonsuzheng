@@ -41,6 +41,6 @@ export default function bootstrapApp(res, renderProps, state) {
   })
   .catch(error => {
     logger.error(error.toString());
-    res.end(renderHtml('', {}, 'Christian Le'));
+    res.end(renderHtml('', {}, 'Jason Zheng'));
   });
 };

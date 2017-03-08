@@ -43,23 +43,23 @@ export function updateHelmetProps(url, title, description) {
 }
 
 export const HelmetBaseConfig = {
-  title: 'Christian Le',
+  title: 'Jason Zheng',
   meta: [
     {
       name: 'description',
-      content: 'Christian Le | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
     },
     {
       name: 'author',
-      content: 'Christian Le (cle1994)'
+      content: 'Jason Zheng (cle1994)'
     },
     {
       itemprop: 'name',
-      content: 'Christian Le (cle1994)'
+      content: 'Jason Zheng (cle1994)'
     },
     {
       itemprop: 'description',
-      content: 'Christian Le | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
     },
     {
       itemprop: 'image',
@@ -76,11 +76,11 @@ export const HelmetBaseConfig = {
     },
     {
       name: 'twitter:title',
-      content: 'Christian Le'
+      content: 'Jason Zheng'
     },
     {
       name: 'twitter:description',
-      content: 'Christian Le | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
     },
     {
       name: 'twitter:image:src',
@@ -93,15 +93,15 @@ export const HelmetBaseConfig = {
     },
     {
       property: 'og:title',
-      content: 'Christian Le'
+      content: 'Jason Zheng'
     },
     {
       property: 'og:description',
-      content: 'Christian Le | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
+      content: 'Jason Zheng | Software Engineer and Photographer | GitHub: cle1994 | Berkeley Computer Science'
     },
     {
       property: 'og:site_name',
-      content: 'Christian Le'
+      content: 'Jason Zheng'
     },
     {
       property: 'og:image',

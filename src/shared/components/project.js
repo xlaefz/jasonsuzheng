@@ -46,7 +46,7 @@ class project extends Component {
     } else if (!markdown) {
       const helmetProps = updateHelmetProps(
         url,
-        'project | Christian Le',
+        'project | Jason Zheng',
         'project is loading...'
       );
 
@@ -61,7 +61,7 @@ class project extends Component {
     const title = markdown.split('\n', 2)[0].substring(2);
     const helmetProps = updateHelmetProps(
       url,
-      `${ title } | Christian Le`,
+      `${ title } | Jason Zheng`,
       summary
     );
 

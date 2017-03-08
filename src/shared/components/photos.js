@@ -25,7 +25,7 @@ class Photos extends Component {
 
     const helmetProps = updateHelmetProps(
       'http://jasonsuzheng.com/photos',
-      'Photos | Christian Le',
+      'Photos | Jason Zheng',
       'Here lies a small collection of photos I take.'
     );
 
