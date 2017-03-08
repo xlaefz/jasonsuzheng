@@ -71,7 +71,7 @@ class project extends Component {
         <div className="page page--project">
           <ReactMarkdown source={ markdown } />
           <div className="nav-links">
-            <Link to={'/projects'} className="inline">projects</Link>
+            <Link to={'/projects'} className="inline">Projects</Link>
             <div className="inline">|</div>
             <Link to={'/'} className="inline">Home</Link>
           </div>

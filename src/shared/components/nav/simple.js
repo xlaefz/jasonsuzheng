@@ -66,7 +66,7 @@ class SimpleNavigation extends Component {
             <Link to="/photos">Photos</Link>
           </li>
           <li>
-            <Link to="/projects">projects</Link>
+            <Link to="/projects">Projects</Link>
             <ul className="inner">
               { projectLinks }
             </ul>
