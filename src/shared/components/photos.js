@@ -38,7 +38,7 @@ class Photos extends Component {
           </h1>
           { photos }
           <div className="nav-links">
-            <Link to={'/projects'} className="inline">projects</Link>
+            <Link to={'/projects'} className="inline">Projects</Link>
             <div className="inline">|</div>
             <Link to={'/'} className="inline">Home</Link>
           </div>

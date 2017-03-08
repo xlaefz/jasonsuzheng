@@ -46,7 +46,7 @@ class Home extends Component {
             </b>, where I showcase my
             <b>
               <Link to={'/projects'}>
-                &nbsp;projects
+                &nbsp;Projects
               </Link>
             </b> about anything, a place that I use to practice my web
             development, and at the end of the day, a place about me.

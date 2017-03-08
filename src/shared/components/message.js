@@ -96,7 +96,7 @@ class Message extends Component {
         { pageBody }
         <div className="links">
           <div className="link">
-            <a href="mailto:christian@outcomes.com" target="_blank">Email</a>
+            <a href="mailto:jasonzhe@usc.edu" target="_blank">Email</a>
           </div>
         </div>
       </div>

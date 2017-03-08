@@ -9,7 +9,7 @@ import slack from 'slack-notify';
 
 const logger = tracer.colorConsole();
 
-const SLACK_WEBHOOK = process.env.SLACK_WEBHOOK || 'https://hooks.slack.com/services/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';
+const SLACK_WEBHOOK = process.env.SLACK_WEBHOOK || 'https://hooks.slack.com/services/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';
 const messenger = slack(SLACK_WEBHOOK);
 
 const MESSAGE_SENT_ROUTE = '/message/sent';
@@ -19,7 +19,7 @@ export function sendMessage(req, res) {
 
   messenger.send({
     username: name,
-    icon_url: 'https://dl.dropboxusercontent.com/u/11836382/Icon_inverted.png',
+    icon_url: 'https://www.dropbox.com/s/t2a9hgyzti15g1q/apple-icon-152x152.png?dl=0',
     icon_emoji: null,
     attachments: [
       {
@@ -47,7 +47,7 @@ export function sendMessage(req, res) {
 
   if (client) {
     return res.json({
-      sent: true 
+      sent: true
     });
   }
 
