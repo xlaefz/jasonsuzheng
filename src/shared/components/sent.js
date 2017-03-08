@@ -18,7 +18,7 @@ class MessageSent extends Component {
         <h3 className="center">Message Sent!</h3>
         <h5 className="center light">I'll get back to you as soon as I can.</h5>
         <div className="nav-links">
-          <Link to={'/projects'} className="inline">projects</Link>
+          <Link to={'/projects'} className="inline">Projects</Link>
           <div className="inline">|</div>
           <Link to={'/photos'} className="inline">Photos</Link>
           <div className="inline">|</div>

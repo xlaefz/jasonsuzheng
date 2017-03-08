@@ -30,7 +30,7 @@ this was a compromise.
 #### SEO
 
 I really wanted server side rendering for SEO. I pretty much don't exist
-according to Google. My old site had virtually no search engine optimization
+according to . My old site had virtually no search engine optimization
 because I used Angular 1.3 and it was completely client rendered. I know it's
 possible with Angular to get search engine optimization but I didn't find any
 solution very clean or affordable. Hence the move to React/Flux and a

@@ -45,7 +45,6 @@ class App extends Component {
             { !this.props.children && <Home /> }
             { this.props.children }
           </div>
-          <GoogleAnalytics id={ process.env.GA_ID } />
         </div>
       </div>
     );
