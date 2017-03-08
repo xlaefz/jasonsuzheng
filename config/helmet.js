@@ -105,7 +105,7 @@ export const HelmetBaseConfig = {
     },
     {
       property: 'og:image',
-      content: 'http://jasonsuzheng.com/favicon/facebook.png'
+      content: ''
     },
     {
       property: 'og:type',
