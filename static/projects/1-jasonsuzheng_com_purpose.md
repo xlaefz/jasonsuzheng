@@ -12,7 +12,8 @@ website was terribly outdated, not in it's technologies or design (though I'm
 sure some people would argue that), but in it's content. I just couldn't will
 myself to update anything on it because everything was in straight HTML. Which
 is why projects on this website are written using
-[markdown](https://goo.gl/Rl2gCB).
+![link](https://bytebucket.org/strawht/personal_website/raw/ea96d4ffda73f22512a69dbfd590bc9e16a87777/static/images/4.jpg?token=fd1463f6ce1b570ba29178d082b29cf7a977c25b)
+.
 
 #### Markdown
 
