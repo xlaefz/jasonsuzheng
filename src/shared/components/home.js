@@ -25,37 +25,30 @@ class Home extends Component {
               <a href="https://github.com/xlaefz" target="_blank">
                 software engineer
               </a>
-            </b>
-            &nbsp;born and raised in <b>
-              Southern California
             </b> currently residing in Los Angeles.
-            <b>
+            I am a student at <b>
               <a href="http://www.usc.edu/" target="_blank">
-                USC
+                  USC
               </a>
-            </b>.
+            </b> and currently working at Los Angeles Technical Consulting Hub.
           </p>
         </div>
         <div className="margin-bottom-4">
           <p className="h4 light margin-bottom-2">
-            Welcome to my website,where I
+            Welcome to my website, where I
             <b>
               <Link to={'/photos'}>
                 &nbsp;blog
               </Link>
-            </b>, where I showcase my
+            </b> and track my growth as a developer through
             <b>
               <Link to={'/projects'}>
-                &nbsp;Projects
+                &nbsp;projects
               </Link>
-            </b> about anything, a place that I use to practice my web
-            development, and at the end of the day, a place about me.
-            So a little about me...
+            </b>.
           </p>
           <p className="h4 light margin-bottom-2">
-            I spend alot of my time weigt lifting and looking at cool app designs.
-            I personally don't do alot of design work; however, I really appreciate
-             it and think it's pretty cool.
+            I like to develop iOS apps that give back to the community.
           </p>
         </div>
         <div className="links">
