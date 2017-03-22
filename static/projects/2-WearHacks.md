@@ -1,10 +1,9 @@
-# So you want to start web development...
+# WearHacks
 <!---
-Why I think getting started with web development is a pain in it's current
-state and what advice I would give as you start out.
-:01/08/16
+My First Hackathon.
+:10/01/15
 -->
-###### January 8, 2016
+###### October 1, 2015
 
 ### Preface
 

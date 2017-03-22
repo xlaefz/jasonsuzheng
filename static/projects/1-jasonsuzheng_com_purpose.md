@@ -1,78 +1,56 @@
-# jasonsuzheng.com: Purpose
+# The Tipping Point
 <!---
 Why I rebuilt my website, again, and the reasoning behind my technology choices.
-:01/01/16
+:08/30/15
 -->
-###### January 1, 2016
+###### August 30, 2015
+
+### Background
+
+I had just finished an internship with a real estate investment firm and hated
+it. I was going in to my senior year not knowing what to do and I really
+couldn't find something that I was passionate about that kept me awake at
+night wanting to learn more. At this point in time, school to me was nothing
+more than a validator of my work ethic. As a Civil Engineering major, I would
+force myself to learn Advance Theory of Structures, Structural Dynamics, and
+etc. and do well; however, I felt like I wasn't true-ly learning.
+
+<br>
+I decided to start exploring other fields such as software engineering because
+3/6 of my housemates were studying Computer Science or Computer Engineering/
+Computer Science. I talked to them briefly about my career crisis and with
+their support and mentorship I decided to enroll in my first computer science
+course!
 
 ### Why
 
-This really breaks down into a couple things, SEO, learning, and fun. My old
-website was terribly outdated, not in it's technologies or design (though I'm
-sure some people would argue that), but in it's content. I just couldn't will
-myself to update anything on it because everything was in straight HTML. Which
-is why projects on this website are written using
-![link](https://bytebucket.org/strawht/personal_website/raw/df1b741a02b92832aa5fa468bf85ff1a6a214b47/static/images/16709588_10155837129092729_1346264866_o.jpg?token=f8a9ebb3407f55f80d9c1c70ca0da64f5b2e3f62).
-
-#### Markdown
-
-I take all my notes in markdown, and it's a really quick way to create styled
-text without all the markup from HTML. It's just a personal preference thing.
-It's also great because now all my projects will be styled the same without me
-having to remember classes or ids or tags or whatever with HTML. I get a nice
-cohesive website without any troubles.
-
-A side benefit is that I don't need to have a database for my project
-entries, just have to save all my markdown files on the server and have it
-served. This might not be best practices, but I didn't want to build a CMS, so
-this was a compromise.
-
-#### SEO
-
-I really wanted server side rendering for SEO. I pretty much don't exist
-according to . My old site had virtually no search engine optimization
-because I used Angular 1.3 and it was completely client rendered. I know it's
-possible with Angular to get search engine optimization but I didn't find any
-solution very clean or affordable. Hence the move to React/Flux and a
-"universal" app. Ooohhh buzz words, added benefit of the technology change.
-
-Oh and go ahead, turn off Javascript. You can still view all content as
-intended. This goes along with the server rendering and SEO but mainly I'm able
-to support older browsers and broader range of devices.
+This really breaks down into a couple things, learning, and fun. After taking
+the introductory course at USC I realized that I greatly enjoyed coding. The
+coding assignments we did were not arduous tasks, but fun challenges. This
+introductory course gave me the insight on what products can potentially be
+made and the idea of start ups and making my own app excited me!
 
 #### Learning
 
-I've been using React and Redux for all my projects as of recent but they were
-all hacked together with warnings left and right, so I wanted to make something
-using the technologies more correctly (I make no claims that I didn't hack some
-stuff together for this website). I definitely learned the most about webpack.
-I understood practically none of it before but now I can at least say I put
-together my own webpack config.
+It has been about 1.5 years since the start of my journey (writing this 03/22/17)
+and I believe that I have come a long way since the beginning. I would like to
+say that I am proud of my accomplishments so far and am excited to be in this
+fast pace field where learning never stops. I am currently interested in
+mobile/backend development and will be honing my skills through making projects
+with iOS, Node.js, and Flask.
 
 #### Fun
 
-I wanted to challenge myself. I've been in the web development scene for a
-couple years now and everything started to feel repetitive. I was getting bored
-of web development and needed a way to get back into it. Redoing my website was
-how I did it. I strayed from web development for awhile to do mostly iOS things
-but this was my way back.
+Every project that I start on my own, I become very passionate about and would
+work hours on end without getting tired. I enjoy the aspect of integrating design
+with code and really appreciate aesthetics in application building.
 
 ### Purpose
 
-I didn't make this website just because, I want to create a collection of
-resources I wish I had when I was starting out in web development. There will be
-a projects containing short tutorials, things I discover and find interesting in
-the web dev world, and probably some rants here and there. Hopefully I can
-spread some knowledge =D.
+I made this website to track my progress thus far and will make in the near future.
+I would also like to thank my housemates again for giving me the courage to
+step into a new field and providing me mentorship when I needed help.
 
-### Random Code Snippet
-
-How to vertically align something with css.
-
-```css
-.vertically-align {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-```
+<br>
+<img src="http://i.imgur.com/H7NlOAA.jpg" alt="dank team" width="640">.
+<br>
