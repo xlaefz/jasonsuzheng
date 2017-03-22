@@ -6,15 +6,33 @@
     "date": "08/30/15 "
   },
   {
-    "file": "2-WearHacks.md",
-    "title": "WearHacks ",
+    "file": "2-Where'sIt.md",
+    "title": "Where's It ",
     "description": "My First Hackathon. ",
     "date": "10/01/15 "
   },
   {
-    "file": "3-starting_web_dev0.md",
-    "title": "So you want to start web development... ",
+    "file": "3-MineCraft.md",
+    "title": "MineCraft ",
     "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
-    "date": "01/08/15 "
+    "date": "01/08/16 "
+  },
+  {
+    "file": "4-Ember.md",
+    "title": "Exploring Web Development With Ember ",
+    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "date": "06/01/16 "
+  },
+  {
+    "file": "5-PocketBuddy.md",
+    "title": "My First iOS App -- Pocket Buddy ",
+    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "date": "09/01/16 "
+  },
+  {
+    "file": "6-Ping.md",
+    "title": "Exploring Android Development -- P!ng ",
+    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "date": "10/01/16 "
   }
 ]
