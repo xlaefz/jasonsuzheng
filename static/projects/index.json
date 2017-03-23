@@ -2,37 +2,43 @@
   {
     "file": "1-jasonsuzheng_com_purpose.md",
     "title": "The Tipping Point ",
-    "description": "Why I rebuilt my website, again, and the reasoning behind my technology choices. ",
+    "description": "Why I chose Software Engineer as a career and purpose of my website ",
     "date": "08/30/15 "
   },
   {
     "file": "2-Where'sIt.md",
-    "title": "Where's It ",
-    "description": "My First Hackathon. ",
+    "title": "My First Hackathon: Where's It ",
+    "description": "My first hackathon experience and working in a team environment ",
     "date": "10/01/15 "
   },
   {
     "file": "3-MineCraft.md",
-    "title": "MineCraft ",
-    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "title": "First And Last Game I Will Make: MineCraft ",
+    "description": "Playing around with JAVA light weight game kit and learning about programmining in a 3-D space ",
     "date": "01/08/16 "
   },
   {
     "file": "4-Ember.md",
-    "title": "Exploring Web Development With Ember ",
-    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "title": "Exploring Web Scraping and Node.js ",
+    "description": "Playing around with Google Graph API, Python Web Scraping, and Node.js ^_^ ",
     "date": "06/01/16 "
   },
   {
     "file": "5-PocketBuddy.md",
-    "title": "My First iOS App -- Pocket Buddy ",
-    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "title": "My First iOS App: Pocket Buddy ",
+    "description": "A mobile application which helps users get home safely! ",
     "date": "09/01/16 "
   },
   {
     "file": "6-Ping.md",
-    "title": "Exploring Android Development -- P!ng ",
-    "description": "Why I think getting started with web development is a pain in it's current state and what advice I would give as you start out. ",
+    "title": "Exploring Android Development: P!ng ",
+    "description": "An Android application to remind housemates to do chores ",
     "date": "10/01/16 "
+  },
+  {
+    "file": "7-BotAndChill.md",
+    "title": "Exploring ChatBots and NLP: Bot And Chill ",
+    "description": "A Facebook Chatbot to recommend movies based off of what movies you like. ",
+    "date": "02/01/17 "
   }
 ]

@@ -1,6 +1,6 @@
 # The Tipping Point
 <!---
-Why I rebuilt my website, again, and the reasoning behind my technology choices.
+Why I chose Software Engineer as a career and purpose of my website
 :08/30/15
 -->
 ###### August 30, 2015
@@ -52,5 +52,5 @@ I would also like to thank my housemates again for giving me the courage to
 step into a new field and providing me mentorship when I needed help.
 
 <br>
-<img src="http://i.imgur.com/H7NlOAA.jpg" alt="dank team" width="640">.
+<img src="http://i.imgur.com/H7NlOAA.jpg" alt="dank team" width=640px>
 <br>
